@@ -1,6 +1,6 @@
 package test;
 
-import wh.entity.Warehouse;
+import wh.entity.reference.Warehouse;
 
 public class Main {
 

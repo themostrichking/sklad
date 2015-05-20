@@ -1,6 +1,8 @@
-package wh.entity;
+package wh.entity.reference;
 
-public class Warehouse extends Entity {
+import wh.entity.Entity;
+
+public abstract class Reference extends Entity {
 
     private static final long serialVersionUID = 1L;
     private String name;
