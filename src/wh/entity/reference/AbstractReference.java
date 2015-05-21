@@ -2,7 +2,7 @@ package wh.entity.reference;
 
 import wh.entity.Entity;
 
-public abstract class Reference extends Entity {
+public abstract class AbstractReference extends Entity {
 
     private static final long serialVersionUID = 1L;
     private String name;
